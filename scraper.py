@@ -1,4 +1,3 @@
-#!/bin/sh
 import requests, json, re
 
 
